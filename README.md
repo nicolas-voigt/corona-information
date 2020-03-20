@@ -19,3 +19,5 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * https://www.ksta.de/koeln/corona-krise-in-koeln-immer-mehr-hilfsangebote-entstehen---ein-aktueller-ueberblick-36421986
 ## Speyer
 * http://coronaspeyer.com/
+## Taucha (bei Leipzig)
+* https://www.taucha-kompakt.de/coronahilfe/
