@@ -23,3 +23,5 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * http://coronaspeyer.com/
 ## Taucha (bei Leipzig)
 * https://www.taucha-kompakt.de/coronahilfe/
+## Dresden
+* https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php
