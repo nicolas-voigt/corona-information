@@ -14,6 +14,8 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * https://wirhelfen.eu/
 * https://www.coronaport.net/ - momentan nur in Berlin
 * https://www.wirgegencorona.com/
+* [Blutspenden gehen: DRK](https://www.drk-blutspende.de/infos-blutspende-coronavirus.php)
+* [Blutspenden gehen: Haema](https://www.haema.de/blutspendedienst.html)
 
 ## Köln
 * https://www.ksta.de/koeln/corona-krise-in-koeln-immer-mehr-hilfsangebote-entstehen---ein-aktueller-ueberblick-36421986
