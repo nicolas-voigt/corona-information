@@ -7,12 +7,13 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * [Tagesaktuelle Informationen zum Coronavirus des Bundesgesundheitsministeriums](https://www.bundesgesundheitsministerium.de/coronavirus.html)
 * [Informationen des Robert-Koch-Instituts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
 * [Informationen der Bundeszentrale für gesundheitliche Aufklärung (BZgA)](https://www.infektionsschutz.de/coronavirus/)
+* [WHO](https://www.who.int/health-topics/coronavirus) 
 
 ## Helfen
 * https://www.quarantaenehelden.org/
 * https://nebenan.de/
 * https://wirhelfen.eu/
-* https://www.coronaport.net/ - momentan nur in Berlin
+* https://www.coronaport.net/ - hauptsächlich in Berlin
 * https://www.wirgegencorona.com/
 * [Blutspenden gehen: DRK](https://www.drk-blutspende.de/infos-blutspende-coronavirus.php)
 * [Blutspenden gehen: Haema](https://www.haema.de/blutspendedienst.html)
