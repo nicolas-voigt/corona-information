@@ -26,3 +26,48 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * https://www.taucha-kompakt.de/coronahilfe/
 ## Dresden
 * https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php
+
+## Hessen
+* https://soziales.hessen.de/gesundheit/infektionsschutz/aktuelle-informationen-corona
+
+## Baden-Württemberg
+* https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/
+
+## Bayern
+* https://www.stmas.bayern.de/coronavirus-info/index.php
+
+## Saarland
+* https://www.saarland.de/corona.htm
+
+## Rheinland-Pfalz
+* https://www.rlp.de/de/buergerportale/informationen-zum-coronavirus/
+
+## Rheinland-Pfalz
+* https://www.land.nrw/corona
+
+## Hamburg
+* https://www.hamburg.de/coronavirus/
+
+## Bremen
+* https://www.bremen.de/corona
+
+## Thüringen
+* https://www.landesregierung-thueringen.de/corona-bulletin/
+
+## Sachsen
+* https://www.coronavirus.sachsen.de/
+
+## Sachsen-Anhalt
+* https://stk.sachsen-anhalt.de/service/corona-virus/
+
+## Niedersachsen
+* https://www.niedersachsen.de/Coronavirus
+
+## Schleswig-Holstein
+* https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus.html
+
+## Mecklenburg-Vorpommern
+* https://www.regierung-mv.de/Landesregierung/wm/Aktuelles--Blickpunkte/Wichtige-Informationen-zum-Corona%E2%80%93Virus
+
+## Berlin
+* https://www.berlin.de/sen/web/corona/
