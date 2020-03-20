@@ -15,5 +15,7 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * https://www.coronaport.net/ - momentan nur in Berlin
 * https://www.wirgegencorona.com/
 
+## Hessen
+* https://soziales.hessen.de/gesundheit/infektionsschutz/aktuelle-informationen-corona
 ## Köln
 * https://www.ksta.de/koeln/corona-krise-in-koeln-immer-mehr-hilfsangebote-entstehen---ein-aktueller-ueberblick-36421986
