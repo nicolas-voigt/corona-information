@@ -71,3 +71,6 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 
 ## Berlin
 * https://www.berlin.de/sen/web/corona/
+
+## Brandenburg
+* https://www.brandenburg.de/cms/detail.php/bb1.c.473964.de (Server not responding for now)
