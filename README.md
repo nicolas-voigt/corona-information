@@ -64,7 +64,7 @@ Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen z
 * https://www.niedersachsen.de/Coronavirus
 
 ## Schleswig-Holstein
-* https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200129_Grippe_Coronavirus.html
+* https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Allgemeines/allgemeines_node.html
 
 ## Mecklenburg-Vorpommern
 * https://www.regierung-mv.de/Landesregierung/wm/Aktuelles--Blickpunkte/Wichtige-Informationen-zum-Corona%E2%80%93Virus
